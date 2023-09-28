@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T06:14:27.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3yWC3iMs9ELVK9PUAoSC" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-28T06:16:06.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="OSv_LdKo4_rWxbpuUnJ6" version="21.8.2" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1793" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             <mxPoint x="100" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="spksn7wkr87Tgkmr4TmV-66" value="1.7 Project Schedule" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82B366;shadow=1;fontStyle=0;fontSize=14;align=left;" parent="1" vertex="1">
+        <mxCell id="spksn7wkr87Tgkmr4TmV-66" value="1.7 Project schedule" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82B366;shadow=1;fontStyle=0;fontSize=14;align=left;" parent="1" vertex="1">
           <mxGeometry x="70" y="990" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="spksn7wkr87Tgkmr4TmV-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;align=left;" parent="1" edge="1">
@@ -172,16 +172,16 @@
         <mxCell id="eRo0hpybtUEbokPi4bz--7" value="2.1 Backend code" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="410" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eRo0hpybtUEbokPi4bz--8" value="2.2 API Documentation" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
+        <mxCell id="eRo0hpybtUEbokPi4bz--8" value="2.2 API documentation" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eRo0hpybtUEbokPi4bz--9" value="2.3 Database Schema " style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
+        <mxCell id="eRo0hpybtUEbokPi4bz--9" value="2.3 Database schema " style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eRo0hpybtUEbokPi4bz--10" value="2.4 System security measures" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="700" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eRo0hpybtUEbokPi4bz--12" value="2.5 Performance Optimization Strategies" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
+        <mxCell id="eRo0hpybtUEbokPi4bz--12" value="2.5 Performance optimization strategies" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="440" y="800" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eRo0hpybtUEbokPi4bz--15" value="2.6 Backend technical documentation" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
@@ -349,7 +349,7 @@
             <mxPoint x="1553" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eRo0hpybtUEbokPi4bz--52" value="5.4 Licensing and permissions" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82B366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
+        <mxCell id="eRo0hpybtUEbokPi4bz--52" value="5.4 Licensing and permissions &#xa;      document" style="rounded=1;fillColor=#d5e8d4;strokeColor=#82B366;shadow=1;fontStyle=0;fontSize=14;align=left;" vertex="1" parent="1">
           <mxGeometry x="1543" y="720" width="197" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eRo0hpybtUEbokPi4bz--53" value="" style="endArrow=none;html=1;rounded=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#82B366;strokeWidth=4;endFill=0;fontStyle=0;align=left;" edge="1" parent="1" target="eRo0hpybtUEbokPi4bz--52">
