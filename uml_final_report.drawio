@@ -143,7 +143,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="raCDrMh42CsUO1TfeVZc-106" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Result analysis and visualization&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="530" width="200" height="160" as="geometry" />
+          <mxGeometry x="280" y="530" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="raCDrMh42CsUO1TfeVZc-109" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data visualization&lt;/font&gt;" style="html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="573.75" width="100" height="30" as="geometry" />
