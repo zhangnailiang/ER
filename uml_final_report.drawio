@@ -78,11 +78,8 @@
         <mxCell id="raCDrMh42CsUO1TfeVZc-74" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Solves the Lambert problem to compute transfer velocities and extremal distances for orbital transfers. (Lambert)&lt;/font&gt;" style="html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="150.62" width="120" height="61.88" as="geometry" />
         </mxCell>
-        <mxCell id="raCDrMh42CsUO1TfeVZc-75" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Solves the Lambert problem to compute transfer velocities and extremal distances for orbital transfers. (Lambert)&lt;/font&gt;" style="html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="252.5" width="120" height="61.88" as="geometry" />
-        </mxCell>
         <mxCell id="raCDrMh42CsUO1TfeVZc-77" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Numerically integrates the spacecraft&#39;s state using the DOP853 method for precise orbital propagation. (solve_vip)&lt;/font&gt;" style="html=1;whiteSpace=wrap;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="340" width="120" height="70" as="geometry" />
+          <mxGeometry x="140" y="240" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
