@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1871" dy="588" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2433" dy="2074" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -40,7 +40,7 @@
         <mxCell id="f2hwD-fxJ4kN_4thynZX-6" value="Smart Watch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="70" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-7" value="&lt;div&gt;Are you still not sure which bluetooth audio you are looking for? Would you like me to give you some advice based on your usage requirements?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-7" value="&lt;div&gt;í ½í±‹í ¼í¿¼Are you still unsure what kind of Bluetooth audio you are looking for? Do you want me to give you some recommendations based on your usage needs?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="390" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f2hwD-fxJ4kN_4thynZX-9" value="Intent" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -52,7 +52,7 @@
             <mxPoint x="330" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-11" value="&lt;div&gt;For outdoor use, portability and durability are often important. Do you have specific requirements for the size and weight of the audio?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-11" value="&lt;div&gt;For outdoor use, portability and durability are often important. í ¼í¿•ï¸í ¼í¾’í ½í²ª Do you have specific requirements for the size and weight of the audio? í ½í³âš–ï¸í ½í´Š&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="610" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f2hwD-fxJ4kN_4thynZX-12" value="Information provided" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -211,7 +211,7 @@
         <mxCell id="f2hwD-fxJ4kN_4thynZX-67" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Waterproof&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1090" y="800" width="70" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-71" value="&lt;div&gt;What do you think about our suggestion? Would you be interested in making the purchase now?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-71" value="&lt;div&gt;What do you think about our suggestion? í ¾í´”í ½í²¡ Would you be interested in making the purchase now? í ½í»ï¸âœ¨&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1680" y="1090" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f2hwD-fxJ4kN_4thynZX-76" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;shadow=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=none;endFill=1;endSize=8;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="f2hwD-fxJ4kN_4thynZX-71" target="f2hwD-fxJ4kN_4thynZX-96" edge="1">
@@ -257,10 +257,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-82" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;That sounds wonderful! Iâ€™d be happy to make the purchase now.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-82" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;That sounds wonderful! í ¼í¼Ÿ Iâ€™d be happy to make the purchase now. í ½í»ï¸í ½í¸Š&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1980" y="1010" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-83" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;That&#39;s great, but I don&#39;t want to buy it right now.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-83" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;That&#39;s great, but I don&#39;t want to buy it right now. í ½í¹‚í ½íµ’&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1970" y="1200" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2hwD-fxJ4kN_4thynZX-84" value="&lt;div&gt;Don&#39;t worry, we currently have a limited-time 10% discount (code: WildAU666). Would you like to use it?&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -311,13 +311,13 @@
         <mxCell id="f2hwD-fxJ4kN_4thynZX-97" value="Product 2" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1260" y="810" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-98" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Thank you! Here&#39;s the link to your shopping cart. Go ahead and make the purchase:Click to go to the shopping cart.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-98" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Thank you! í ½í¹ Here&#39;s the link to your shopping cart í ½í»’. Go ahead and make the purchase: í ½í±‰Click to go to the shopping cart.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2160" y="1400" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="f2hwD-fxJ4kN_4thynZX-99" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Understood! If you need any more discounts or assistance in the future, don&#39;t forget that our 10% discount (code: WildAU666) is still available!&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1900" y="1540" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="f2hwD-fxJ4kN_4thynZX-100" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Thank you! Here&#39;s the link to your shopping cart. Go ahead and make the purchase:Click to go to the shopping cart.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="f2hwD-fxJ4kN_4thynZX-100" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Thank you! í ½í¹ Here&#39;s the link to your shopping cart í ½í»’. Go ahead and make the purchase: í ½í±‰Click to go to the shopping cart.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2070" y="900" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f2hwD-fxJ4kN_4thynZX-101" value="Information provided" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -627,6 +627,84 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="390" as="sourcePoint" />
             <mxPoint x="60" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-0" value="Welcome to Beyond The Wild AU online shop! í ½í»’í ¼í¼¿ I&#39;m your shopping assistant í ¾í´–í ½í²¬. Here, you&#39;ll enjoy free shipping í ½íºší ½í²¨, clear video tutorials í ¼í¾¥í ½í³˜, and a 90-day after-sales guarantee on every product âœ…í ½í» ï¸." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="-500" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-1" value="May I ask if you&#39;re interested in product recommendations or need after - sales service inquiries?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#A9C4EB;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="-240" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-2" value="Information provided" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="-120" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-1" target="tY3UWOk7PV4MlQKCZscm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="-40" as="sourcePoint" />
+            <mxPoint x="140" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-2" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="-50" as="sourcePoint" />
+            <mxPoint x="230" y="-90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-8" value="Product Recommendation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="-40" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-9" value="After-sales" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="-110" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;â˜ž Return and Exchange Policy í ½í´&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;í ½íµ’ Time Limit: You can return or exchange the goods within 30 days after receipt í ½í³¦. Goods that are unused and still in their original packaging í ½í»ï¸ meet the criteria for return and exchange. For second-hand goods, if there are quality issues, please contact us within 90 days í ½í³….&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;í ½í³ Procedure: Please call our after-sales staff at â˜Žï¸ 043-123456, and provide your order number, product information, and the reason for the return or exchange. We will send you the return address í ½í³¬. Once we receive the goods in good condition âœ…, we will refund you (in the original payment method) í ½í²³ or exchange the goods for you í ½í´„.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;í ½í²° Cost: If you return the goods for reasons other than quality issues, you will need to bear the shipping cost í ½íºš. If the return is due to quality problems, we will cover the shipping cost í ¼í¶“.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;í ½íµ˜ Customer Service Working Hours: From Monday to Friday, 9:00 - 17:00 í ¾í·‘â€í ½í²¼í ½í³ž.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="-170" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-2" target="tY3UWOk7PV4MlQKCZscm-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-20" as="sourcePoint" />
+            <mxPoint x="410" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-10" target="tY3UWOk7PV4MlQKCZscm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="-260" as="sourcePoint" />
+            <mxPoint x="550" y="-260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="-205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-10" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="130" as="sourcePoint" />
+            <mxPoint x="600" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-16" value="Product Recommendation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="20" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-10" target="tY3UWOk7PV4MlQKCZscm-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="-30" as="sourcePoint" />
+            <mxPoint x="840" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="-85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-18" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Understood! í ½í± Looking forward to serving you next time! í ½í¸Ší ½í±‹í ½í»ï¸&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=#000000;labelBackgroundColor=none;fillColor=#f0a30a;strokeColor=#BD7000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-19" value="No thanks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="-40" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tY3UWOk7PV4MlQKCZscm-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tY3UWOk7PV4MlQKCZscm-0" target="tY3UWOk7PV4MlQKCZscm-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-350" as="sourcePoint" />
+            <mxPoint x="470" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
